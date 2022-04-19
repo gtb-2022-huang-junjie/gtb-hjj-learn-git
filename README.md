@@ -4,4 +4,4 @@ Git is amazing!
 
 - git is good
 
-- git is nice
+- git is not nice
