@@ -2,6 +2,6 @@
 
 Git is amazing!
 
-- git is good
+- svn is bad
 
 - git is not so nice
